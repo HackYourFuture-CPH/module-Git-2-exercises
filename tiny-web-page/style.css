@@ -20,3 +20,7 @@ h1:before {
   background-repeat: no-repeat;
   background-size: cover;
 }
+ol,
+ul {
+  padding-left: 3em;
+}
